@@ -191,12 +191,6 @@ npm run dev
 
 ---
 
-# 🌐 Live Demo
-
-https://agrimadeeazy.onrender.com
-
----
-
 # 🚀 Future Enhancements
 
 - Express.js Backend
@@ -225,6 +219,4 @@ GitHub: https://github.com/bandidivya22
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
----
 
-## 🌱 Empowering Farmers Through Technology
