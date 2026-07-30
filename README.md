@@ -4,6 +4,11 @@
 
 AgriMadeEazy is a modern, responsive agricultural tools marketplace designed to simplify the process of discovering and exploring farming equipment. The platform provides an intuitive shopping experience with smart farming utilities, interactive product browsing, and a clean user interface tailored for farmers and agricultural businesses.
 
+---
+
+## 🌐 Live Demo
+
+**https://agrimadeeazy.onrender.com**
 
 ---
 
